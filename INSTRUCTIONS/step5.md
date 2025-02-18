@@ -1,5 +1,5 @@
 # Create and Configure Amazon Lex Chatbot
-![step5]()
+![step5](assets\step5.png.png)
 ### Navigate to Amazon Lex in the AWS Console.
 
 #### Create a new bot:
@@ -11,7 +11,7 @@
 - Set up predefined intents
 
 ## Build And Test The Chatbot
-![step5.1]()
+![step5.1](assets\step5.1.png.png)
 
 #### Build the Bot
 - After configuring intents and slots, click Build to compile the chatbot configuration.

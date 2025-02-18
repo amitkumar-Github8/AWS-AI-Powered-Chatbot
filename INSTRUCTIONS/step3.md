@@ -1,6 +1,6 @@
 
 # Amazon Bedrock
-
+![step3](assets\step3.png.png)
 ## Edit Model Access:
 Navigate to Amazon Bedrock in the AWS Console.
 Go to the Base Model.

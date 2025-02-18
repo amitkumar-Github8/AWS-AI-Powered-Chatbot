@@ -1,6 +1,6 @@
 # Create an S3 Bucket and Upload Files
 
-![step2](https:)
+![step2]assets\step2.png.png()
 
 ## Create an S3 Bucket:
 - In the AWS Console, navigate to S3 and click Create Bucket.
